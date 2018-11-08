@@ -1,6 +1,6 @@
 # IssueTracker
-[custom badges](https://img.shields.io/crates/l/rustc-serialize.svg)
-[custom badges](https://img.shields.io/badge/version-0.1-red.svg)
+![license](https://img.shields.io/crates/l/rustc-serialize.svg)
+![version](https://img.shields.io/badge/version-0.1-red.svg)
 
 Java Issue Tracker
 -Spring Boot
