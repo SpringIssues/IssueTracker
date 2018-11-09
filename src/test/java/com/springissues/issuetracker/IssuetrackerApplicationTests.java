@@ -11,6 +11,7 @@ public class IssuetrackerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		assert 2 == 2;
 	}
 
 }
